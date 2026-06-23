@@ -1,5 +1,6 @@
-import { Mail } from 'lucide-react';
 import React from 'react';
+import { Mail } from 'lucide-react';
+
 import { BsArrowUp, BsGithub, BsLinkedin } from 'react-icons/bs';
 //import { Github, Linkedin, Mail, ArrowUp } from 'lucide-react';
 
