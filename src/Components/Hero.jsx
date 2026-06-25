@@ -279,8 +279,7 @@ const Hero = () => {
               mentor and grow with.
             </p>
             <p className="text-neutral-900 dark:text-white italic font-light pt-2">
-              "I’m still early in my journey, but I build like someone who plans
-              to be doing this for a very long time."
+              "Curiosity got me into code. Building real things is what's keeping me here."
             </p>
           </div>
         </div>
