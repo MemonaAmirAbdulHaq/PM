@@ -116,13 +116,13 @@ const Hero = () => {
       {/* <Header /> */}
 
       {/* 2. HERO SECTION */}
-    <div className="min-h-screen flex items-center justify-center px-6 sm:px-10 lg:px-20">
+   <div className="min-h-screen flex items-center justify-center px-6 sm:px-10 lg:px-20">
 
   <div className="max-w-6xl mx-auto text-center">
 
     {/* Badge */}
     <div className="inline-flex items-center gap-2 px-4 py-2 border border-cyan-500/20 bg-cyan-500/5 mb-8">
-      <span className="h-2 w-2 bg-cyan-500 animate-pulse" />
+      <span className="h-2 w-2 bg-cyan-500 animate-pulse"></span>
 
       <span className="text-cyan-500 font-mono text-xs uppercase tracking-[0.3em] font-semibold">
         Full Stack AI Engineer
@@ -132,23 +132,23 @@ const Hero = () => {
     {/* Name */}
     <h1
       className="
-      text-6xl
-      sm:text-7xl
-      md:text-8xl
-      lg:text-[10rem]
-      font-black
-      uppercase
-      leading-[0.9]
-      tracking-tight
-      bg-gradient-to-r
-      from-neutral-900
-      via-neutral-700
-      to-cyan-500
-      dark:from-white
-      dark:via-neutral-200
-      dark:to-cyan-400
-      bg-clip-text
-      text-transparent
+        text-6xl
+        sm:text-7xl
+        md:text-8xl
+        lg:text-[10rem]
+        font-black
+        uppercase
+        leading-[0.9]
+        tracking-tight
+        bg-gradient-to-r
+        from-neutral-900
+        via-neutral-700
+        to-cyan-500
+        dark:from-white
+        dark:via-neutral-200
+        dark:to-cyan-400
+        bg-clip-text
+        text-transparent
       "
     >
       Memona Amir
@@ -157,21 +157,21 @@ const Hero = () => {
     {/* Hook */}
     <p
       className="
-      mt-6
-      text-lg
-      md:text-2xl
-      font-semibold
-      uppercase
-      tracking-[0.45em]
-      text-neutral-500
-      dark:text-neutral-400
+        mt-6
+        text-lg
+        md:text-2xl
+        font-semibold
+        uppercase
+        tracking-[0.45em]
+        text-neutral-500
+        dark:text-neutral-400
       "
     >
       Build • Scale • Automate
     </p>
 
-    {/* Tiny supporting line */}
-    <p className="mt-8 text-neutral-600 dark:text-neutral-400 max-w-xl mx-auto text-sm md:text-base">
+    {/* Small line */}
+    <p className="mt-8 text-neutral-600 dark:text-neutral-400 max-w-xl mx-auto">
       MERN • Next.js • AI • Clean Architecture
     </p>
 
@@ -181,19 +181,19 @@ const Hero = () => {
       <a
         href="#contact"
         className="
-        group
-        px-8
-        py-4
-        bg-cyan-500
-        hover:bg-cyan-400
-        text-black
-        uppercase
-        text-xs
-        tracking-[0.2em]
-        font-bold
-        transition-all
-        duration-300
-        hover:-translate-y-1
+          group
+          px-8
+          py-4
+          bg-cyan-500
+          hover:bg-cyan-400
+          text-black
+          uppercase
+          text-xs
+          tracking-widest
+          font-bold
+          transition-all
+          duration-300
+          hover:-translate-y-1
         "
       >
         Get In Touch
@@ -207,27 +207,36 @@ const Hero = () => {
         target="_blank"
         rel="noreferrer"
         className="
-        px-8
-        py-4
-        border
-        border-neutral-300
-        dark:border-neutral-700
-        hover:border-cyan-500
-        text-neutral-700
-        dark:text-neutral-300
-        uppercase
-        text-xs
-        tracking-[0.2em]
-        font-bold
-        transition-all
-        duration-300
-        hover:-translate-y-1
+          px-8
+          py-4
+          border
+          border-neutral-300
+          dark:border-neutral-700
+          hover:border-cyan-500
+          text-neutral-700
+          dark:text-neutral-300
+          uppercase
+          text-xs
+          tracking-widest
+          font-bold
+          transition-all
+          duration-300
+          hover:-translate-y-1
         "
       >
         View Resume ↗
       </a>
 
     </div>
+
+    {/* Bottom Line */}
+    <div className="mt-20 flex justify-center">
+      <div className="h-px w-48 bg-gradient-to-r from-transparent via-cyan-500 to-transparent"></div>
+    </div>
+
+  </div>
+
+</div>
 
     {/* Bottom accent */}
     <div className="mt-20 flex justify-center">
