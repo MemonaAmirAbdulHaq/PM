@@ -12,8 +12,8 @@ const ALL_PROJECTS = [
     imageUrl: nexamart,
     description: "A production-ready multi-vendor eCommerce platform built with the MERN stack. Features role-based dashboards for buyers, sellers, and administrators, Stripe payment integration, real-time order updates via WebSockets, product management, analytics, order tracking, and secure authentication. Designed to deliver a complete marketplace experience with scalability and performance in mind.",
     tags: ["react", "node.js", "express", "mongodb", "socket.io", "redux-toolkit"],
-    githubUrl: "https://github.com",
-    liveUrl: "https://vercel.com",
+   githubUrl: "https://github.com/MemonaAmirAbdulHaq/Nexamart",
+    liveUrl: "https://nexamart-jade.vercel.app/",
   },
   {
     title: "Ims LMS",
@@ -22,8 +22,8 @@ const ALL_PROJECTS = [
     imageUrl: lms,
     description: "A modern Learning Management System built with Next.js and TypeScript. Includes secure authentication, student and instructor dashboards, course creation and enrollment workflows, video-based learning, progress tracking, and scalable backend architecture for managing educational content and users.",
     tags: ["next.js", "typescript", "redis", "rtk-query", "material-ui", "mongodb"],
-    githubUrl: "https://github.com",
-    liveUrl: "https://vercel.com",
+         githubUrl: "https://github.com/MemonaAmirAbdulHaq/ELearningLMS",
+    liveUrl: "https://e-learning-lms-xi.vercel.app/",
   },
   {
     title: "Foodie Frenzy",
@@ -32,8 +32,8 @@ const ALL_PROJECTS = [
     imageUrl: foodie,
     description: "Architected as a single page application using React, leveraging a dedicated component-based design for extreme modularity and clean, interactive UI transitions.",
     tags: ["react", "javascript", "tailwindcss", "spa", "frontend"],
-    githubUrl: "https://github.com",
-    liveUrl: "https://vercel.com",
+    githubUrl: "https://github.com/MemonaAmirAbdulHaq/Foodie-Frenzy",
+    liveUrl: "https://foodie-frenzy-drab.vercel.app/",
   }
 ];
 
