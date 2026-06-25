@@ -169,7 +169,7 @@ const Hero = () => {
 
         {/* Resume - Outline Action Block */}
         <a
-          href="https://docs.google.com/document/d/1-AqtU6GSm2TgiGOyPBTb1ZjIZZKJfIT5/edit?usp=sharing&ouid=104171663808918435957&rtpof=true&sd=true"
+          href="https://drive.google.com/file/d/1O1udaHY5hPBT7Q-qcqzy3yTu7TJAnHqd/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
           className="group inline-flex items-center justify-center px-8 py-4 border border-neutral-300 dark:border-neutral-800 hover:border-neutral-400 dark:hover:border-neutral-700 bg-transparent text-neutral-700 dark:text-neutral-300 hover:text-neutral-900 dark:hover:text-white transition-all duration-300 font-bold tracking-wide text-xs uppercase font-mono transform hover:-translate-y-0.5 rounded-none"
