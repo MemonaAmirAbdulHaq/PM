@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { Sun, Moon } from "lucide-react";
 import { useTheme } from "../context/ThemeContext";
-//import Header from "./Header"; // Adjust path if necessary
+
 import { motion } from "framer-motion";
 
-// Icons for the Skills component
+
 import {
   DiJavascript1,
   DiReact,
